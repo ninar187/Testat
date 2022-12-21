@@ -1,0 +1,7 @@
+﻿sector;welchem gesellschaftlichen Teilsystem die Person oder Organisation zuzuordnen ist (z.B. Wirtschaft, Militär, Religion, Politik, Adel, etc.);
+relation;Art der Beziehung zwischen den Personen oder einer Person und einer Organisation (z.B. Freunde, Kolleginnen, Mitglied, Gründer, etc.);
+type;1;Menschen
+;2;Organisation
+relation ;1;Anhänger/Mitglied
+;2;Liebe
+;3;Freunde
